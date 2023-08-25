@@ -1,8 +1,10 @@
 ![logo](mobject_logo.png) 
 # Mobject
-[![check spelling](https://github.com/mochi-hpc/mobject/actions/workflows/spell.yml/badge.svg)](https://github.com/mochi-hpc/mobject/actions/workflows/spell.yml)
-[![spack mobject](https://github.com/mochi-hpc/mobject/actions/workflows/spack.yml/badge.svg)](https://github.com/mochi-hpc/mobject/actions/workflows/spack.yml)
-[![spack mobject+bedrock](https://github.com/mochi-hpc/mobject/actions/workflows/spack_bedrock.yml/badge.svg)](https://github.com/mochi-hpc/mobject/actions/workflows/spack_bedrock.yml)
+
+[![check spelling](https://github.com/hyoklee/mobject/actions/workflows/spell.yml/badge.svg)](https://github.com/hyoklee/mobject/actions/workflows/spell.yml)
+[![ior+mobject@develop](https://github.com/hyoklee/mobject/actions/workflows/ior.yml/badge.svg)](https://github.com/hyoklee/mobject/actions/workflows/ior.yml)
+[![spack mobject](https://github.com/hyoklee/mobject/actions/workflows/spack.yml/badge.svg)](https://github.com/hyoklee/mobject/actions/workflows/spack.yml)
+[![spack mobject+bedrock](https://github.com/hyoklee/mobject/actions/workflows/spack_bedrock.yml/badge.svg)](https://github.com/hyoklee/mobject/actions/workflows/spack_bedrock.yml)
 
 Mobject is a distributed object storage system
 built using a composition of [Mochi](https://mochi.readthedocs.io) components: 

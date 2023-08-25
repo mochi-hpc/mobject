@@ -31,4 +31,4 @@ jobs:
       run: |
         . ./spack/share/spack/setup-env.sh
         spack repo add ./mochi-spack-packages
-        spack install mobject+bedrock
+        spack install mobject@main+bedrock
